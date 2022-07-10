@@ -1,11 +1,8 @@
 # JS-counter
-# Project Title
 
-Simple overview of use/purpose.
 
-## Description
+JS mini project with active button for online game to with friends more of a score keeping.
 
-An in-depth paragraph about your project and overview of use.
 
 ## User Interface
 
